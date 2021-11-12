@@ -1,2 +1,8 @@
-BayLime/.ipynb_checkpoints/
 TO/.ipynb_checkpoints/
+BayLime/.ipynb_checkpoints/
+BayLime/lime/__pycache__/lime_base.cpython-37.pyc
+BayLime/lime/__pycache__/lime_image.cpython-37.pyc
+BayLime/lime/utils/__pycache__/__init__.cpython-37.pyc
+BayLime/lime/utils/__pycache__/generic_utils.cpython-37.pyc
+BayLime/lime/wrappers/__pycache__/__init__.cpython-37.pyc
+BayLime/lime/wrappers/__pycache__/scikit_image.cpython-37.py
